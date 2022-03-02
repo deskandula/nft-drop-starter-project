@@ -1,5 +1,6 @@
 # buildspace Solana NFT Drop Project
 ### Welcome 👋
+### Link to my final site: https://kandula-sol-nft.vercel.app/
 To get started with this course, clone this repo and follow these commands:
 
 1. cd into the `app` folder
